@@ -6,6 +6,8 @@ console.log(firstName + " " + lastName);
 var myName = "Auston";
 console.log(myName.toUpperCase());
 
+Console.log("Heyyyy, Jordan. It's Harrison");
+
 
 var hoverboards = 0;
 
